@@ -2,7 +2,3 @@ myenv/
 env/
 __pycache__/
 */__pycache__/
-*.json
-*.dbc
-*.txt
-*.csv
