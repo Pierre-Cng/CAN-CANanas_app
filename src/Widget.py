@@ -146,3 +146,6 @@ class TreeCheckList(ttk.Treeview):
                     elif iid in self.clicked_list:
                         self.clicked_list.remove(iid)
                 self.item(selected_item, values=self.switch_bool_box(status))
+
+
+
